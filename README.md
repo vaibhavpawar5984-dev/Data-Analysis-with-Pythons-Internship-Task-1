@@ -1,6 +1,4 @@
 
-
-
 from google.colab import files
 uploaded = files.upload()
      
@@ -175,3 +173,4 @@ Graphs were created to visually understand grade distribution, study habits, and
 
 Conclusion :
 From the analysis, study time shows a positive relationship with performance. Gender-wise comparison shows a slight difference in average scores. Visualizations help in better understanding the data trends.
+
