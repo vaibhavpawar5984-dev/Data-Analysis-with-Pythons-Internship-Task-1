@@ -1,4 +1,29 @@
 **Week 1 task for Data Analysis with Python Internship. Includes student performance dataset analysis using pandas and matplotlib with proper visualizations and documentations. This repository contains the Week 1 task for the Data Analysis with Python Internship. 📌 Task Objective To analyze the Student Performance dataset using Python by performing:
+To analyze the Student Performance dataset using Python by performing:
+
+Data loading
+Data cleaning
+Data analysis
+Data visualization
+📂 Files Included
+Data_Analysis_with_Python_Internship_Task1.ipynb
+student-mat.csv
+🛠 Tools & Libraries Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Google Colab / Jupyter Notebook
+📊 Analysis Performed
+Average final grade calculation
+Count of students scoring above 15
+Study time vs performance correlation
+Gender-wise performance comparison
+📈 Visualizations
+Histogram of final grades
+Scatter plot of study time vs grades
+Bar chart for gender-wise average performance
+✅ Conclusion
 
 Data loading Data cleaning Data analysis Data visualization 📂 Files Included Data_Analysis_with_Python_Internship_Task1.ipynb student-mat.csv 🛠 Tools & Libraries Used Python Pandas Matplotlib Seaborn Google Colab / Jupyter Notebook 📊 Analysis Performed Average final grade calculation Count of students scoring above 15 Study time vs performance correlation Gender-wise performance comparison 📈 Visualizations Histogram of final grades Scatter plot of study time vs grades Bar chart for gender-wise average performance ✅ Conclusion The analysis shows that study time has a positive impact on student performance. Gender-wise comparison shows a slight difference in average scores. Visualizations help in understanding data trends clearly.
 **
